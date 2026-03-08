@@ -1,0 +1,2 @@
+# Enforcing-Mandatory-Fields-Using-UI-Policies-and-Migrating-Changes-with-Update-Sets
+This project demonstrates enforcing mandatory fields using UI Policies in ServiceNow to ensure required data is entered based on conditions. It also shows how to migrate configuration changes using Update Sets, allowing developers to move customizations from development to testing and production environments efficiently.
